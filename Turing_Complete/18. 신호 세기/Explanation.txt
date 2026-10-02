@@ -1,0 +1,7 @@
+1점 출력: (A XOR B) XOR (C XOR D)
+2점 출력: {(A AND B) XOR (C AND D)} XOR {(A XOR B) AND (C XOR D)}
+4점 출력: (A AND B) AND (C AND D)
+
+보기 좀 어려워서 해답도 같이 적어둠.
+
+ㅎㅇㅌ!
